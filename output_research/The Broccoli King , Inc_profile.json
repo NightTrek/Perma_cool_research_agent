@@ -1,0 +1,34 @@
+{
+    "buisnessName": "The Broccoli King, Inc.",
+    "licenseNumber": "CDPH-10002790",
+    "licenseEmail": "Madalandry@gmail.Com",
+    "products": [
+        "Cannabis oil cartridges",
+        "Cannabis tinctures",
+        "Other cannabis-infused products"
+    ],
+    "company_website": {
+        "url": "http://olympicextract.com/",
+        "contactPage_url": null,
+        "summary": "Olympic Extracts is a cannabis extraction and manufacturing company that produces high-quality cannabis oil and related products. The company holds a Type 6 cannabis manufacturing license in California.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Mada Landry",
+            "executiveEmail": "Madalandry@gmail.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Mada Landry",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

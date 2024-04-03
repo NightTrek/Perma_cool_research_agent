@@ -1,0 +1,49 @@
+{
+    "buisnessName": "Pacific Cultivation",
+    "licenseNumber": "CDPH-10002574",
+    "licenseEmail": "Linda.Thong@pacificcultivate.Com",
+    "products": [
+        "Flower",
+        "Pre-Rolls",
+        "Edibles",
+        "Concentrates"
+    ],
+    "company_website": {
+        "url": "https://pacificcultivation.com/",
+        "contactPage_url": null,
+        "summary": "Pacific Cultivation is a licensed cannabis cultivator in Mendocino County, California. They grow small-batch, sun-grown cannabis using sustainable and organic practices.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Linda Thong",
+            "executiveEmail": "Linda.Thong@pacificcultivate.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Linda Thong is listed as the business owner of Pacific Cultivation.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Linda Thong is listed as the business owner of Pacific Cultivation.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Joe Carbajal",
+            "executiveEmail": null,
+            "linkedin_url": "https://www.linkedin.com/in/joe-carbajal-80a692195",
+            "position_at_company": "Unknown",
+            "customer_note": "Joe Carbajal is listed as being affiliated with Pacific Cultivation on LinkedIn, but his exact role is unknown.",
+            "evidence": [
+                {
+                    "type": "LinkedIn",
+                    "value": "Joe Carbajal is listed as being affiliated with Pacific Cultivation on LinkedIn.",
+                    "url": "https://www.linkedin.com/in/joe-carbajal-80a692195"
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

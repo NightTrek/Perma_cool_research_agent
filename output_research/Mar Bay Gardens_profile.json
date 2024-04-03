@@ -1,0 +1,77 @@
+{
+    "buisnessName": "Sol Bay Gardens Inc.",
+    "licenseNumber": "CDPH-10002367",
+    "licenseEmail": "Allen@sol-Bay.Com",
+    "products": [
+        "Cannabis flowers",
+        "Pre-rolls",
+        "Concentrates",
+        "Edibles",
+        "Topicals",
+        "Beverages"
+    ],
+    "company_website": {
+        "url": "https://www.solbaygardens.com/",
+        "contactPage_url": "https://www.solbaygardens.com/contact",
+        "summary": "Sol Bay Gardens is a cannabis manufacturing company that produces a variety of nano THC-based products including drinks, elixirs, creams, and edibles. They offer white-label manufacturing capabilities.",
+        "infomration_about_the_team": "Sol Bay Gardens is led by a team of experienced cannabis industry professionals, including Director Abrahan Ramos."
+    },
+    "executives": [
+        {
+            "name": "Abrahan Ramos",
+            "executiveEmail": null,
+            "linkedin_url": "https://www.linkedin.com/in/abrahan-ramos-73422b1a1",
+            "position_at_company": "Director",
+            "customer_note": "Abrahan Ramos is listed as the Director of Sol Bay Gardens on his LinkedIn profile.",
+            "evidence": [
+                {
+                    "type": "LinkedIn Profile",
+                    "value": "Abrahan Ramos is listed as the Director of Sol Bay Gardens on his LinkedIn profile.",
+                    "url": "https://www.linkedin.com/in/abrahan-ramos-73422b1a1"
+                }
+            ]
+        },
+        {
+            "name": "Allen Hanson",
+            "executiveEmail": "Allen@sol-Bay.Com",
+            "linkedin_url": null,
+            "position_at_company": "Unknown",
+            "customer_note": "Allen Hanson is listed as a business owner on the customer profile, and his email address is provided.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Allen Hanson is listed as a business owner of Sol Bay Gardens.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Michele Heisler",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Unknown",
+            "customer_note": "Michele Heisler is listed as a business owner on the customer profile.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Michele Heisler is listed as a business owner of Sol Bay Gardens.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Rodney Sherry",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Unknown",
+            "customer_note": "Rodney Sherry is listed as a business owner on the customer profile.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Rodney Sherry is listed as a business owner of Sol Bay Gardens.",
+                    "url": null
+                }
+            ]
+        }
+    ]
+}

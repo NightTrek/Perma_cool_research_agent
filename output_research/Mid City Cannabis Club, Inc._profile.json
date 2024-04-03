@@ -1,0 +1,32 @@
+{
+    "buisnessName": "Mid City Cannabis Club, Inc.",
+    "licenseNumber": "CDPH-10002437",
+    "licenseEmail": "Danielmichaelsosa@gmail.Com",
+    "products": [
+        "Cannabis products distributed by Mid City Cannabis Club, Inc., including products under the La Brea Collective brand"
+    ],
+    "company_website": {
+        "url": "https://labreacollective.com/distribution/",
+        "contactPage_url": "https://labreacollective.com/distribution/",
+        "summary": "Mid City Cannabis Club, Inc. is a licensed cannabis retailer operating as the La Brea Collective in Los Angeles, California. They hold an active Adult-Use and Medicinal license.",
+        "infomration_about_the_team": "Based on the available information, the key executive of Mid City Cannabis Club, Inc. appears to be Daniel Sosa, who is listed as the business owner."
+    },
+    "executives": [
+        {
+            "name": "Daniel Sosa",
+            "executiveEmail": "Danielmichaelsosa@gmail.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Daniel Sosa is listed as the business owner of Mid City Cannabis Club, Inc.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Daniel Sosa is listed as the business owner of Mid City Cannabis Club, Inc.",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

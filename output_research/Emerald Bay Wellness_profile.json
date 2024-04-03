@@ -1,0 +1,37 @@
+{
+    "buisnessName": "Emerald Bay Wellness",
+    "licenseNumber": "CDPH-10002192",
+    "executives": [
+        {
+            "email": "None Found",
+            "name": "Casey Angeley",
+            "customer_note": "Co-owner of Emerald Bay Wellness",
+            "position_at_company": "Business Owner",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Business Owner",
+                    "url": "https://humboldtgov.org/AgendaCenter/ViewFile/Agenda/_05032018-1075"
+                }
+            ]
+        },
+        {
+            "email": "Thomas@emeraldbayextracts.Com",
+            "name": "Thomas Angeley",
+            "customer_note": "Co-owner of Emerald Bay Wellness",
+            "position_at_company": "Business Owner",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Business Owner",
+                    "url": "https://humboldtgov.org/AgendaCenter/ViewFile/Agenda/_05032018-1075"
+                }
+            ]
+        }
+    ],
+    "products": [
+        "RSO Tablets",
+        "RSO Syringes",
+        "Cannabis Oils and Concentrates"
+    ]
+}

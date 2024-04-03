@@ -1,0 +1,48 @@
+{
+    "buisnessName": "Cosmic View, Inc.",
+    "licenseNumber": "CDPH-10002368",
+    "licenseEmail": "Christine@cosmicview.Com",
+    "products": [
+        "Tinctures",
+        "Topicals",
+        "Edibles",
+        "Sweets",
+        "CBD-rich products"
+    ],
+    "company_website": {
+        "url": "https://www.cosmicview.com/",
+        "contactPage_url": "https://www.cosmicview.com/",
+        "summary": "Cosmic View is a women-owned California medicinal cannabis product company founded by a mother scientist and daughter cancer survivor. They offer a line of pure, handcrafted cannabis products formulated with science and traditional herbalism.",
+        "infomration_about_the_team": "Cosmic View was founded by a mother-daughter team, Dr. Christine Skibola and Nicole Skibola."
+    },
+    "executives": [
+        {
+            "name": "Christine Skibola",
+            "executiveEmail": "Christine@cosmicview.Com",
+            "linkedin_url": null,
+            "position_at_company": "Co-Founder",
+            "customer_note": "Christine Skibola is listed as a co-founder of Cosmic View, Inc. on the customer profile.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Christine Skibola is listed as a co-founder of Cosmic View, Inc.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Nicole Skibola",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Co-Founder",
+            "customer_note": "Nicole Skibola is listed as a co-founder of Cosmic View, Inc. on the customer profile.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Nicole Skibola is listed as a co-founder of Cosmic View, Inc.",
+                    "url": null
+                }
+            ]
+        }
+    ]
+}

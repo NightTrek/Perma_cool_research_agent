@@ -1,0 +1,64 @@
+{
+    "buisnessName": "Gladral, LLC (doing business as Clarified Confections)",
+    "licenseNumber": "CDPH-10002426",
+    "licenseEmail": "Dustin@getclarified.Com",
+    "products": [
+        "Cannabis-infused ghee butter",
+        "Cannabis-infused cookies",
+        "Cannabis capsules",
+        "Cannabis topicals and salves",
+        "Cannabis tinctures"
+    ],
+    "company_website": {
+        "url": "https://www.getclarified.com/",
+        "contactPage_url": null,
+        "summary": "Clarified Confections is a cannabis company that produces a variety of whole plant cannabis-infused products, including edibles, topicals, and tinctures. They strive to use organic, sustainable, and local ingredients.",
+        "infomration_about_the_team": "The company is owned and operated by Dustin Mahoney, Frances Villafuerte, and Lawrence Share. Frances Villafuerte is listed as the Chief Executive Officer on her LinkedIn profile."
+    },
+    "executives": [
+        {
+            "name": "Dustin Mahoney",
+            "executiveEmail": "Dustin@getclarified.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Dustin Mahoney is listed as a business owner of Gladral, LLC (doing business as Clarified Confections).",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Dustin Mahoney is listed as a business owner of Gladral, LLC (doing business as Clarified Confections).",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Frances Villafuerte",
+            "executiveEmail": null,
+            "linkedin_url": "https://www.linkedin.com/in/frances-villafuerte-059366212",
+            "position_at_company": "Chief Executive Officer",
+            "customer_note": "Frances Villafuerte is listed as the Chief Executive Officer of Clarified Confections on her LinkedIn profile.",
+            "evidence": [
+                {
+                    "type": "LinkedIn",
+                    "value": "Frances Villafuerte is listed as the Chief Executive Officer of Clarified Confections on her LinkedIn profile.",
+                    "url": "https://www.linkedin.com/in/frances-villafuerte-059366212"
+                }
+            ]
+        },
+        {
+            "name": "Lawrence Share",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Lawrence Share is listed as a business owner of Gladral, LLC (doing business as Clarified Confections).",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Lawrence Share is listed as a business owner of Gladral, LLC (doing business as Clarified Confections).",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

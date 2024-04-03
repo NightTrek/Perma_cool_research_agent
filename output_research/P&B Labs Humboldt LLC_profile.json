@@ -1,0 +1,76 @@
+{
+    "buisnessName": "P&B Labs Humboldt LLC",
+    "licenseNumber": "CDPH-10002847",
+    "licenseEmail": "Michael.Kraft@papaandbarkley.Com",
+    "products": [
+        "Cannabis infused gummies",
+        "Vape products",
+        "Cannabis and cannabis-derived products"
+    ],
+    "company_website": {
+        "url": null,
+        "contactPage_url": null,
+        "summary": "P&B Labs Humboldt LLC is a licensed cannabis company in California that produces a variety of cannabis products including edibles, vapes, and other cannabis-derived goods.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Adam Grossman",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Adam Grossman",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Elihu Gordis",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Elihu Gordis",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Jon O'Connor",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Jon O'Connor",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Scott Gordon",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Scott Gordon",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

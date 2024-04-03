@@ -1,0 +1,57 @@
+The customer profile for Crown Genetics, LLC is:
+
+{
+    "buisnessName": "Crown Genetics, LLC",
+    "licenseNumber": "CDPH-10002866",
+    "licenseEmail": "Spencer@crownog.Com",
+    "products": [
+        "Crown OG",
+        "Dizzy OG",
+        "Green Suicide",
+        "Value Flower",
+        "Cannabis and cannabis-derived products"
+    ],
+    "company_website": {
+        "url": "https://crowngenetics.com/",
+        "contactPage_url": null,
+        "summary": "Crown Genetics has been providing high quality cannabis since 2012. It started with the famous Crown OG strain and has now expanded to include value flower and other cannabis products.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Jeremy Thomas",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Jeremy Thomas",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Spencer Juarez",
+            "executiveEmail": "Spencer@crownog.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Spencer Juarez",
+                    "url": null
+                },
+                {
+                    "type": "businessEmail",
+                    "value": "Spencer@crownog.Com",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

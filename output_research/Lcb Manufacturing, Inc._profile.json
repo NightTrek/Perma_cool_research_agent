@@ -1,0 +1,30 @@
+{
+    "buisnessName": "Lcb Manufacturing, Inc.",
+    "licenseNumber": "CDPH-10002327",
+    "licenseEmail": "Joseph@lostcoastbotanicals.Com",
+    "products": [
+        "Cannabis extracts and concentrates"
+    ],
+    "company_website": {
+        "url": null,
+        "contactPage_url": null,
+        "summary": "Lcb Manufacturing, Inc. is a licensed cannabis manufacturer located in California. The company operates under the business name Lost Coast Botanicals and is owned by Joseph Jacovini.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Joseph Jacovini",
+            "executiveEmail": "Joseph@lostcoastbotanicals.Com",
+            "linkedin_url": null,
+            "position_at_company": "Owner",
+            "customer_note": "Joseph Jacovini is the owner of Lcb Manufacturing, Inc., which operates under the business name Lost Coast Botanicals.",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Lcb Manufacturing, Inc. is licensed by the California Department of Public Health with the license number CDPH-10002327. The business owner is listed as Joseph Jacovini.",
+                    "url": null
+                }
+            ]
+        }
+    ]
+}

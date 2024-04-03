@@ -1,0 +1,32 @@
+{
+    "buisnessName": "Adams St. Enterprises, LLC",
+    "licenseNumber": "CDPH-10002659",
+    "licenseEmail": "Stefanie@touchstoneglobalinc.Com",
+    "products": [
+        "Hair Oil"
+    ],
+    "company_website": {
+        "url": "https://www.adamsstreetshipping.com/",
+        "contactPage_url": null,
+        "summary": "Adams St. Enterprises, LLC is a licensed cannabis distributor and manufacturer based in California. They sell a variety of cannabis products including hair oil.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Stefanie Phan-Thomas",
+            "executiveEmail": "Stefanie@touchstoneglobalinc.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Stefanie Phan-Thomas",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

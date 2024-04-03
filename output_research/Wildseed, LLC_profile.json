@@ -1,0 +1,51 @@
+{
+    "buisnessName": "Wildseed, LLC",
+    "licenseNumber": "CDPH-10001988",
+    "licenseEmail": "Michael@wildseedoil.Com",
+    "products": [
+        "Cannabis oils",
+        "Vape products",
+        "Skincare/beauty products"
+    ],
+    "company_website": {
+        "url": "https://www.wildseedoil.com/",
+        "contactPage_url": null,
+        "summary": "Wildseed is a craft manufacturing and distribution facility in Arcata, CA. They produce a variety of cannabis products including oils and vapes, as well as natural skincare and beauty products.",
+        "infomration_about_the_team": "The key executives and decision makers at Wildseed, LLC appear to be Michael Mclaren and Pawel Rudnicki, who are listed as the business owners. However, I was unable to find detailed contact information or LinkedIn profiles for these individuals."
+    },
+    "executives": [
+        {
+            "name": "Michael Mclaren",
+            "executiveEmail": "Michael@wildseedoil.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Michael Mclaren is listed as a business owner of Wildseed, LLC. He can be contacted at the email address Michael@wildseedoil.Com.",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10001988"
+                },
+                {
+                    "type": "Business Email",
+                    "value": "Michael@wildseedoil.Com",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10001988"
+                }
+            ]
+        },
+        {
+            "name": "Pawel Rudnicki",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Pawel Rudnicki is listed as a business owner of Wildseed, LLC.",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10001988"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "buisnessName": "Se7enleaf, LLC",
+    "licenseNumber": "CDPH-10002469",
+    "licenseEmail": "Matteo@se7enleaf.Com",
+    "products": [
+        "Vape cartridges",
+        "Tinctures",
+        "Concentrates",
+        "Oral sprays",
+        "Pre-rolls",
+        "Topical products",
+        "Capsules",
+        "Cannabis flower",
+        "CBD products"
+    ],
+    "company_website": {
+        "url": "https://se7enleaf.com/",
+        "contactPage_url": "https://se7enleaf.com/contact.html",
+        "summary": "Se7enLeaf is a city and state licensed contract manufacturer, processor and distributor of cannabis products.",
+        "infomration_about_the_team": "Se7enLeaf offers a wide range of co-packing services, such as mixing, homogenizing, infusing, filling, capping and packaging assembly."
+    },
+    "executives": [
+        {
+            "name": "Damoun Pouyarad",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Damoun Pouyarad is listed as one of the business owners of Se7enleaf, LLC.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Damoun Pouyarad is listed as one of the business owners of Se7enleaf, LLC.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Matteo Tabibzadeh",
+            "executiveEmail": "Matteo@se7enleaf.Com",
+            "linkedin_url": "https://www.linkedin.com/in/matteo-tabib-04497219",
+            "position_at_company": "Business Owner",
+            "customer_note": "Matteo Tabibzadeh is listed as one of the business owners of Se7enleaf, LLC, and his email is provided in the customer profile.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Matteo Tabibzadeh is listed as one of the business owners of Se7enleaf, LLC.",
+                    "url": null
+                },
+                {
+                    "type": "LinkedIn",
+                    "value": "Matteo Tabibzadeh's LinkedIn profile shows he is an Officer at Chip 1 Exchange USA, Inc.",
+                    "url": "https://www.linkedin.com/in/matteo-tabib-04497219"
+                }
+            ]
+        },
+        {
+            "name": "Michael Moussalli",
+            "executiveEmail": null,
+            "linkedin_url": "https://www.linkedin.com/in/michael-moussalli-408b5497",
+            "position_at_company": "Business Owner",
+            "customer_note": "Michael Moussalli is listed as one of the business owners of Se7enleaf, LLC.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Michael Moussalli is listed as one of the business owners of Se7enleaf, LLC.",
+                    "url": null
+                },
+                {
+                    "type": "LinkedIn",
+                    "value": "Michael Moussalli's LinkedIn profile shows he is a Co-Founder and Partner at Se7enLeaf.",
+                    "url": "https://www.linkedin.com/in/michael-moussalli-408b5497"
+                }
+            ]
+        }
+    ],
+    "company_revenue": "<$5 Million",
+    "company_size": "Smaller, state-licensed cannabis manufacturer and processor"
+}

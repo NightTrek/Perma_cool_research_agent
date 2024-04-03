@@ -1,0 +1,51 @@
+{
+    "buisnessName": "420-1, LLC",
+    "licenseNumber": "CDPH-10002903",
+    "licenseEmail": "Dustin@talaryabrand.Com",
+    "products": [
+        "Unclear, no specific product information found"
+    ],
+    "company_website": {
+        "url": null,
+        "contactPage_url": null,
+        "summary": "420-1, LLC is a cannabis manufacturer located in Perris, California. The company holds an active Adult-Use and Medicinal license from the California Department of Public Health.",
+        "infomration_about_the_team": "The business owners of 420-1, LLC are Dustin Milner and Scott Raquiza. No other executive or team information was found."
+    },
+    "executives": [
+        {
+            "name": "Dustin Milner",
+            "executiveEmail": "Dustin@talaryabrand.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Dustin Milner",
+                    "url": null
+                },
+                {
+                    "type": "businessEmail",
+                    "value": "Dustin@talaryabrand.Com",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Scott Raquiza",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Scott Raquiza",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

@@ -1,0 +1,45 @@
+{
+    "buisnessName": "Cea Services, LLC",
+    "licenseNumber": "CDPH-10002647",
+    "licenseEmail": "Will.Sun@curated-Cannabis.Com",
+    "products": [
+        "Live Cured Flower",
+        "Wappa",
+        "ZCG",
+        "Black Runtz",
+        "Grape Bonzai",
+        "Julius Caesar",
+        "Purple Blossom",
+        "Super Chief",
+        "Oreoz"
+    ],
+    "company_website": {
+        "url": "https://curated-cannabis.com/",
+        "contactPage_url": null,
+        "summary": "Curated Cannabis is a licensed commercial cannabis processor, manufacturer, and distributor based in Santa Ana, California. They specialize in selling live cured flower and other cannabis products.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Willie Sun",
+            "executiveEmail": "Will.Sun@curated-Cannabis.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Willie Sun",
+                    "url": null
+                },
+                {
+                    "type": "businessEmail",
+                    "value": "Will.Sun@curated-Cannabis.Com",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

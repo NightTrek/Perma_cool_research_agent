@@ -1,0 +1,58 @@
+{
+    "buisnessName": "Echsen Industries",
+    "licenseNumber": "CDPH-10003203",
+    "licenseEmail": "Echsenindustries@gmail.Com",
+    "executives": [
+        {
+            "email": "Data Not Available",
+            "name": "Charles Eriksen",
+            "linkedin_url": "https://www.linkedin.com/in/charles-eriksen-19b8a8197",
+            "customer_note": "Charles Eriksen is listed as the COO of Echsen Industries on his LinkedIn profile.",
+            "position_at_company": "COO",
+            "evidence": [
+                {
+                    "type": "linkedin_profile",
+                    "value": "Charles Eriksen's LinkedIn profile lists him as the COO of Echsen Industries.",
+                    "url": "https://www.linkedin.com/in/charles-eriksen-19b8a8197"
+                }
+            ]
+        },
+        {
+            "email": "Data Not Available",
+            "name": "Shelby Ticsay",
+            "linkedin_url": "https://www.linkedin.com/in/shelbyticsay",
+            "customer_note": "Shelby Ticsay is listed as the Executive Assistant at Echsen Industries on her LinkedIn profile.",
+            "position_at_company": "Executive Assistant",
+            "evidence": [
+                {
+                    "type": "linkedin_profile",
+                    "value": "Shelby Ticsay's LinkedIn profile lists her as the Executive Assistant at Echsen Industries.",
+                    "url": "https://www.linkedin.com/in/shelbyticsay"
+                }
+            ]
+        },
+        {
+            "email": "Data Not Available",
+            "name": "Victor Hugo Echeverri",
+            "linkedin_url": "Data Not Available",
+            "customer_note": "Victor Hugo Echeverri is listed as being associated with Echsen Industries, but his specific role is not clear.",
+            "position_at_company": "Data Not Available",
+            "evidence": [
+                {
+                    "type": "other",
+                    "value": "Victor Hugo Echeverri is listed as being associated with Echsen Industries, but his specific role is not clear.",
+                    "url": "https://rocketreach.co/victor-hugo-echeverri-email_27456167"
+                }
+            ]
+        }
+    ],
+    "products": [
+        "Cannabis flower, pre-rolls, and concentrates"
+    ],
+    "website_info": {
+        "url": "Data Not Available",
+        "contactPage_url": "Data Not Available",
+        "summary": "Echsen Industries is a licensed cannabis cultivator and distributor based in California.",
+        "infomration_about_the_team": "Data Not Available"
+    }
+}

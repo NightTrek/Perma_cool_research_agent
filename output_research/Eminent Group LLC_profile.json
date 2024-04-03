@@ -1,0 +1,42 @@
+{
+    "buisnessName": "Eminent Group LLC",
+    "licenseNumber": "CDPH-10003053",
+    "licenseEmail": "Keon@eminentextracts.Com",
+    "executives": [
+        {
+            "email": "Keon@eminentextracts.Com",
+            "name": "Keon Houston",
+            "linkedin_url": "Data Not Available",
+            "customer_note": "Keon Houston is listed as the business owner for Eminent Group LLC.",
+            "position_at_company": "Business Owner",
+            "evidence": [
+                {
+                    "type": "license_information",
+                    "value": "Keon Houston is listed as the business owner for Eminent Group LLC on their cannabis license.",
+                    "url": "Data Not Available"
+                }
+            ]
+        },
+        {
+            "email": "Data Not Available",
+            "name": "Megan Smith",
+            "linkedin_url": "Data Not Available",
+            "customer_note": "Megan Smith is listed as the Commercial Director for Eminent Group LLC on their website.",
+            "position_at_company": "Commercial Director",
+            "evidence": [
+                {
+                    "type": "company_website",
+                    "value": "Megan Smith is listed as the Commercial Director for Eminent Group LLC on their website.",
+                    "url": "https://eminentgroupltd.com/our-team"
+                }
+            ]
+        }
+    ],
+    "products": [],
+    "website_info": {
+        "url": "https://eminentgroupltd.com/",
+        "contactPage_url": "https://eminentgroupltd.com/contact",
+        "summary": "Eminent Group LLC is a small cannabis manufacturing company based in Sacramento, California. They hold an active adult-use and medicinal cannabis license.",
+        "infomration_about_the_team": "The company appears to be led by Keon Houston, who is listed as the business owner. The company's website lists Megan Smith as the Commercial Director, but I was unable to find information on any other executives or decision makers."
+    }
+}

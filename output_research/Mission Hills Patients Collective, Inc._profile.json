@@ -1,0 +1,35 @@
+{
+    "buisnessName": "Mission Hills Patients Collective, Inc.",
+    "licenseNumber": "CDPH-10002352",
+    "licenseEmail": "Mhpcollective1@gmail.Com",
+    "products": [
+        "Cannabis flowers",
+        "Pre-rolls",
+        "Concentrates",
+        "Edibles"
+    ],
+    "company_website": {
+        "url": null,
+        "contactPage_url": null,
+        "summary": "Mission Hills Patients Collective is a professional cannabis dispensary proudly serving adult-use customers in Reseda, California.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Edgar Gevorgyan",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Edgar Gevorgyan is listed as the business owner on the license information for Mission Hills Patients Collective, Inc.",
+                    "url": null
+                }
+            ]
+        }
+    ]
+}
+
+Thought: I now know the final answer.

@@ -1,0 +1,14 @@
+{
+    "buisnessName": "{businessLegalName}",
+    "licenseNumber": "{licenseNumber}",
+    "executives": [
+        {
+            "email": null,
+            "name": "",
+            "customer_note": "",
+            "position_at_company": "",
+            "evidence": []
+        }
+    ],
+    "products": []
+}

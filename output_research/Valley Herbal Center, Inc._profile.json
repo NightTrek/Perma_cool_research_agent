@@ -1,0 +1,47 @@
+{
+    "buisnessName": "Valley Herbal Center, Inc.",
+    "licenseNumber": "CDPH-10002370",
+    "licenseEmail": "Vhcvannuys@gmail.Com",
+    "products": [
+        "Cannabis",
+        "Edibles",
+        "Vaporizers",
+        "Pre-Rolls"
+    ],
+    "company_website": {
+        "url": "https://vhcvannuys.wixsite.com/valley-herbal-center",
+        "contactPage_url": "https://vhcvannuys.wixsite.com/valley-herbal-center",
+        "summary": "Valley Herbal Center is a licensed cannabis dispensary located in Van Nuys, California. They offer a variety of cannabis products including flower, edibles, vaporizers, and pre-rolls.",
+        "infomration_about_the_team": "The owners of Valley Herbal Center are Armine Grigoryan and Boris Sokol. However, I was unable to find any additional information about the company's executives or decision makers."
+    },
+    "executives": [
+        {
+            "name": "Armine Grigoryan",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Owner",
+            "customer_note": "Armine Grigoryan is listed as an owner of Valley Herbal Center, Inc. on the customer profile.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Armine Grigoryan is listed as an owner of Valley Herbal Center, Inc.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Boris Sokol",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Owner",
+            "customer_note": "Boris Sokol is listed as an owner of Valley Herbal Center, Inc. on the customer profile.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Boris Sokol is listed as an owner of Valley Herbal Center, Inc.",
+                    "url": null
+                }
+            ]
+        }
+    ]
+}

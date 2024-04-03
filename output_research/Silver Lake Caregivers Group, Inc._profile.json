@@ -1,0 +1,44 @@
+{
+    "buisnessName": "Silver Lake Caregivers Group, Inc.",
+    "licenseNumber": "CDPH-10003008",
+    "licenseEmail": "Tolabus@gmail.Com",
+    "products": [
+        "Various strains of flower",
+        "Concentrates",
+        "Edibles"
+    ],
+    "company_website": {
+        "url": "https://silverlakecaregivers.com/",
+        "contactPage_url": "https://silverlakecaregivers.com/contact-us/",
+        "summary": "Silver Lake Caregivers Group has been providing affordable, high-quality cannabis products to customers in the Los Angeles area since 2006. They offer a wide selection of flower, concentrates, edibles, and other products.",
+        "infomration_about_the_team": "The founder and CEO of Silver Lake Caregivers Group is Tolabus Stein. No other executive or team information was found."
+    },
+    "executives": [
+        {
+            "name": "Tolabus Stein",
+            "executiveEmail": "Tolabus@gmail.Com",
+            "linkedin_url": "https://www.linkedin.com/in/tolabus-stein-574b6739",
+            "position_at_company": "Founder and CEO",
+            "customer_note": "Tolabus Stein founded Silver Lake Caregivers Group in 2006.",
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Tolabus Stein",
+                    "url": null
+                },
+                {
+                    "type": "businessEmail",
+                    "value": "Tolabus@gmail.Com",
+                    "url": null
+                },
+                {
+                    "type": "linkedin_profile",
+                    "value": "https://www.linkedin.com/in/tolabus-stein-574b6739",
+                    "url": "https://www.linkedin.com/in/tolabus-stein-574b6739"
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

@@ -1,0 +1,60 @@
+{
+    "buisnessName": "Oc Beauty Manufacturers, LLC",
+    "licenseNumber": "CDPH-10001946",
+    "licenseEmail": "Kymber@yummikarma.Com",
+    "products": [
+        "Edibles (cookies, brownies, chocolate, Krispy treats)",
+        "Tinctures (Love Potion Aphrodisiac)",
+        "Vape products"
+    ],
+    "company_website": {
+        "url": "https://www.yummikarma.com/",
+        "contactPage_url": null,
+        "summary": "Yummi Karma is a California-based cannabis brand that produces a variety of products including edibles, tinctures, and vape products. They have been in business for over a decade and are known for their high-quality, fun, and functional cannabis products.",
+        "infomration_about_the_team": "The key executives and decision makers at Oc Beauty Manufacturers, LLC (Yummi Karma) appear to be Chelsea Kitahara, Jerilyn Favia, and Krystal Kitahara, who are listed as the business owners. However, I was unable to find detailed contact information for these individuals."
+    },
+    "executives": [
+        {
+            "name": "Chelsea Kitahara",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Chelsea Kitahara is listed as a business owner of Oc Beauty Manufacturers, LLC (Yummi Karma).",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10001946"
+                }
+            ]
+        },
+        {
+            "name": "Jerilyn Favia",
+            "executiveEmail": null,
+            "linkedin_url": "https://www.linkedin.com/in/jerilyn-favia-87011a133",
+            "position_at_company": "Business Owner",
+            "customer_note": "Jerilyn Favia is listed as a business owner of Oc Beauty Manufacturers, LLC (Yummi Karma). She previously held the position of Controller at the company.",
+            "evidence": [
+                {
+                    "type": "LinkedIn Profile",
+                    "value": "Business Owner at Oc Beauty Manufacturers, LLC (Yummi Karma)",
+                    "url": "https://www.linkedin.com/in/jerilyn-favia-87011a133"
+                }
+            ]
+        },
+        {
+            "name": "Krystal Kitahara",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Krystal Kitahara is listed as a business owner of Oc Beauty Manufacturers, LLC (Yummi Karma).",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10001946"
+                }
+            ]
+        }
+    ]
+}

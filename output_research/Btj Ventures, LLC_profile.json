@@ -1,0 +1,79 @@
+{
+    "buisnessName": "BTJ Ventures, LLC",
+    "licenseNumber": "CDPH-10002667",
+    "licenseEmail": "Khrisspain@gmail.Com",
+    "products": [
+        "Cannabis products"
+    ],
+    "company_website": {
+        "url": "https://www.bdjventuresllc.com/",
+        "contactPage_url": null,
+        "summary": "BTJ Ventures, LLC is a licensed cannabis distributor and manufacturer based in California. They sell a variety of cannabis products.",
+        "infomration_about_the_team": "As a Minority Business Enterprise, BDJ Ventures, LLC is uniquely qualified to address your needs. Their team offers extensive and diverse business experience as leaders in the cannabis industry."
+    },
+    "executives": [
+        {
+            "name": "Jan Meshon",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Jan Meshon",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Joshua Adriance",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Joshua Adriance",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Khristopher Spain",
+            "executiveEmail": "Khrisspain@gmail.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Khristopher Spain",
+                    "url": null
+                },
+                {
+                    "type": "businessEmail",
+                    "value": "Khrisspain@gmail.Com",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Bernard Wright",
+            "executiveEmail": null,
+            "linkedin_url": "https://www.linkedin.com/in/bernardcwright",
+            "position_at_company": "President & Founder",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "linkedin",
+                    "value": "Bernard Wright, MBA, C.P.M. - President, BenjaminBernard, LLC, Strategic Sourcing & Supplier Diversity Professional, Principal, BDJ Ventures, LLC",
+                    "url": "https://www.linkedin.com/in/bernardcwright"
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

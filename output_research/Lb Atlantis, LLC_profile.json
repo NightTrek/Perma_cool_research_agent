@@ -1,0 +1,46 @@
+{
+    "buisnessName": "LB Atlantis, LLC",
+    "licenseNumber": "CDPH-10002432",
+    "licenseEmail": "Warren@lbatlantis.Com",
+    "products": [
+        "Cannabis products distributed by LB Atlantis, including Cold Fire Extracts, Fruit Slabs, Radibles, and products for Weed for Warriors"
+    ],
+    "company_website": {
+        "url": "https://www.lbatlantis.com/",
+        "contactPage_url": null,
+        "summary": "LB Atlantis is a fully-licensed cannabis manufacturing and distribution company located in Long Beach, California. They distribute a variety of cannabis products throughout the state.",
+        "infomration_about_the_team": "The company is owned and operated by Ryan Elmore and Warren Blesofsky. Based on the available information, it does not appear that detailed information about the company's executive team is publicly available."
+    },
+    "executives": [
+        {
+            "name": "Ryan Elmore",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Ryan Elmore is listed as a business owner of LB Atlantis, LLC.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Ryan Elmore is listed as a business owner of LB Atlantis, LLC.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Warren Blesofsky",
+            "executiveEmail": "Warren@lbatlantis.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Warren Blesofsky is listed as a business owner of LB Atlantis, LLC.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Warren Blesofsky is listed as a business owner of LB Atlantis, LLC.",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

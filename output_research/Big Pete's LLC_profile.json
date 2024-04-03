@@ -1,0 +1,61 @@
+{
+    "buisnessName": "Big Pete's LLC",
+    "licenseNumber": "CDPH-10002397",
+    "licenseEmail": "Petejr@bigpetestreats.Com",
+    "products": [
+        "Cannabis Cookies",
+        "Edibles"
+    ],
+    "company_website": {
+        "url": "https://bigpetestreats.com/",
+        "contactPage_url": "https://bigpetestreats.com/pages/contact-us",
+        "summary": "Big Pete's Treats is a family-owned and operated cannabis cookie company that has been creating delicious and consistent cannabis edibles since 2010. They are dedicated to baking cannabis cookies that are tasty, consistent, and effective, using real cannabutter and locally sourced cannabis.",
+        "infomration_about_the_team": "Big Pete's Treats was founded by the Feurtado family, including Aaron Serruya, Pete Feurtado, and Peter Feurtado. The company operates out of Santa Cruz, California."
+    },
+    "executives": [
+        {
+            "name": "Aaron Serruya",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Co-Founder",
+            "customer_note": "Aaron Serruya is listed as one of the business owners of Big Pete's Treats.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Aaron Serruya is listed as one of the business owners of Big Pete's Treats.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Pete Feurtado",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Co-Founder",
+            "customer_note": "Pete Feurtado is listed as one of the business owners of Big Pete's Treats.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Pete Feurtado is listed as one of the business owners of Big Pete's Treats.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Peter Feurtado",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Co-Founder",
+            "customer_note": "Peter Feurtado is listed as one of the business owners of Big Pete's Treats.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Peter Feurtado is listed as one of the business owners of Big Pete's Treats.",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": "Approximately $1 million",
+    "company_size": "16 employees (7 on RocketReach)"
+}

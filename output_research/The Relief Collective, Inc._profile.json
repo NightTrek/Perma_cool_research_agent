@@ -1,0 +1,79 @@
+{
+    "buisnessName": "The Relief Collective, Inc.",
+    "licenseNumber": "CDPH-10002541",
+    "licenseEmail": "Rc@thegrowceryla.Com",
+    "products": [
+        "Flower",
+        "Concentrates",
+        "Edibles",
+        "Tinctures",
+        "Topicals",
+        "Vape Cartridges"
+    ],
+    "company_website": {
+        "url": "https://thegrowceryla.com/",
+        "contactPage_url": null,
+        "summary": "The Growcery is a recreational cannabis dispensary offering the best weed in LA. Daily deals on flower, tinctures, concentrates, beverages, and more.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "John Moorhead",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "John Moorhead is listed as one of the business owners of The Relief Collective, Inc.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "John Moorhead is listed as one of the business owners of The Relief Collective, Inc.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Jonathan First",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Jonathan First is listed as one of the business owners of The Relief Collective, Inc.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Jonathan First is listed as one of the business owners of The Relief Collective, Inc.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Rinaldo Cruzado",
+            "executiveEmail": null,
+            "linkedin_url": "https://www.linkedin.com/in/randy-cruzado-b684991b3",
+            "position_at_company": "Chief Executive Officer",
+            "customer_note": "Rinaldo Cruzado is listed as the Chief Executive Officer of The Relief Collective, Inc.",
+            "evidence": [
+                {
+                    "type": "LinkedIn",
+                    "value": "Rinaldo Cruzado is listed as the Chief Executive Officer of The Relief Collective, Inc.",
+                    "url": "https://www.linkedin.com/in/randy-cruzado-b684991b3"
+                }
+            ]
+        },
+        {
+            "name": "Victor Velves",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Victor Velves is listed as one of the business owners of The Relief Collective, Inc.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Victor Velves is listed as one of the business owners of The Relief Collective, Inc.",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": "<$5 Million",
+    "company_size": null
+}

@@ -1,0 +1,53 @@
+{
+    "buisnessName": "Emerald Family Farms, LLC",
+    "licenseNumber": "CDPH-10002151",
+    "licenseEmail": "Kevin@receivershipspecialists.Com",
+    "products": [
+        "Cannabis flower",
+        "Cannabis concentrates and extracts",
+        "Cannabis pre-rolls"
+    ],
+    "revenue_size": "between $1M - $5M",
+    "employee_count": "10-50",
+    "executives": [
+        {
+            "name": "Kevin Singer",
+            "executiveEmail": "Kevin@receivershipspecialists.Com",
+            "position_at_company": "Business Owner",
+            "customer_note": "One of the business owners of Emerald Family Farms, LLC",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Business Owner",
+                    "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/MCSB/Pages/CannabisLicensing.aspx"
+                }
+            ]
+        },
+        {
+            "name": "Patrick Murphy",
+            "executiveEmail": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "One of the business owners of Emerald Family Farms, LLC",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Business Owner",
+                    "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/MCSB/Pages/CannabisLicensing.aspx"
+                }
+            ]
+        },
+        {
+            "name": "Tanja Baker",
+            "executiveEmail": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "One of the business owners of Emerald Family Farms, LLC",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Business Owner",
+                    "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/MCSB/Pages/CannabisLicensing.aspx"
+                }
+            ]
+        }
+    ]
+}

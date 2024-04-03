@@ -1,0 +1,51 @@
+{
+    "buisnessName": "Morrison Management, LLC",
+    "licenseNumber": "CDPH-10001985",
+    "licenseEmail": "Gabriel@stillworxbrands.Com",
+    "products": [
+        "Edibles (cookies, brownies, chocolate, Krispy treats)",
+        "Tinctures (Love Potion Aphrodisiac)",
+        "Vape products"
+    ],
+    "company_website": {
+        "url": "https://stillworxbrands.com/",
+        "contactPage_url": null,
+        "summary": "Stillworx is a fully licensed California-based cannabis product manufacturer that produces a variety of cannabis products including edibles, tinctures, and vape products. They believe in treating people and the planet well, and producing high-quality cannabis goods.",
+        "infomration_about_the_team": "The key executives and decision makers at Morrison Management, LLC (Still Worx) appear to be Charlie Morriss and Gabriel Ugarte, who are listed as the business owners. However, I was unable to find detailed contact information for these individuals."
+    },
+    "executives": [
+        {
+            "name": "Charlie Morriss",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Charlie Morriss is listed as a business owner of Morrison Management, LLC (Still Worx).",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10001985"
+                }
+            ]
+        },
+        {
+            "name": "Gabriel Ugarte",
+            "executiveEmail": "Gabriel@stillworxbrands.Com",
+            "linkedin_url": "https://www.linkedin.com/in/gabriel-ugarte-4829342a/",
+            "position_at_company": "Business Owner",
+            "customer_note": "Gabriel Ugarte is listed as a business owner of Morrison Management, LLC (Still Worx). He can be contacted at the email address Gabriel@stillworxbrands.Com.",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10001985"
+                },
+                {
+                    "type": "Business Email",
+                    "value": "Gabriel@stillworxbrands.Com",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10001985"
+                }
+            ]
+        }
+    ]
+}

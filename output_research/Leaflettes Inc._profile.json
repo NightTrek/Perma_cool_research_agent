@@ -1,0 +1,74 @@
+{
+    "buisnessName": "Leaflettes Inc.",
+    "licenseNumber": "CDPH-10002440",
+    "licenseEmail": "Andrew@leaflettes.Com",
+    "products": [
+        "Cannabis products including cannabis cigarettes, cannabis preroll, cannabis cigar, cannabis cartridges"
+    ],
+    "company_website": {
+        "url": "https://leaflettes.com/",
+        "contactPage_url": "https://leaflettes.com/contact-us/",
+        "summary": "Leaflettes Inc. is a licensed cannabis manufacturing and co-packing company in California that provides high-scale manufacturing and co-packing of cannabis smokable products.",
+        "infomration_about_the_team": "The key executives of Leaflettes Inc. appear to be Andrew Cheng, Calvin Tse, Donny Sun, and Lawrence Ji, based on the information available."
+    },
+    "executives": [
+        {
+            "name": "Andrew Cheng",
+            "executiveEmail": "Andrew@leaflettes.Com",
+            "linkedin_url": null,
+            "position_at_company": "Executive",
+            "customer_note": "Andrew Cheng is listed as an executive of Leaflettes Inc.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Andrew Cheng is listed as a business owner of Leaflettes Inc.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Calvin Tse",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Executive",
+            "customer_note": "Calvin Tse is listed as a business owner of Leaflettes Inc.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Calvin Tse is listed as a business owner of Leaflettes Inc.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Donny Sun",
+            "executiveEmail": null,
+            "linkedin_url": "https://www.linkedin.com/in/donny-lee-sun-968a89214",
+            "position_at_company": "CEO and Owner",
+            "customer_note": "Donny Sun is listed as the CEO and owner of Leaflettes Inc.",
+            "evidence": [
+                {
+                    "type": "LinkedIn",
+                    "value": "Donny Sun is listed as the CEO and owner of Leaflettes Inc.",
+                    "url": "https://www.linkedin.com/in/donny-lee-sun-968a89214"
+                }
+            ]
+        },
+        {
+            "name": "Lawrence Ji",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Executive",
+            "customer_note": "Lawrence Ji is listed as a business owner of Leaflettes Inc.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Lawrence Ji is listed as a business owner of Leaflettes Inc.",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

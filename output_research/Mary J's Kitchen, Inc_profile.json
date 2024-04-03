@@ -1,0 +1,67 @@
+{
+    "buisnessName": "Mary J's Kitchen, Inc",
+    "licenseNumber": "CDPH-10002726",
+    "licenseEmail": "Freddy@bng.La",
+    "products": [
+        "Infused ice creams",
+        "Cannabis-infused topicals",
+        "Infused potatoes and mushrooms"
+    ],
+    "company_website": {
+        "url": null,
+        "contactPage_url": null,
+        "summary": null,
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Freddy braidi",
+            "executiveEmail": "Freddy@bng.La",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Freddy braidi",
+                    "url": null
+                },
+                {
+                    "type": "businessEmail",
+                    "value": "Freddy@bng.La",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Jonathan Kohn",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Jonathan Kohn",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Kerim Ortanca",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Kerim Ortanca",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

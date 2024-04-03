@@ -1,0 +1,30 @@
+{
+    "buisnessName": "Boyle Brothers 411, LLC",
+    "licenseNumber": "CDPH-10002803",
+    "licenseEmail": "Bobby.Amodeo@gmail.Com",
+    "products": [],
+    "company_website": {
+        "url": null,
+        "contactPage_url": null,
+        "summary": null,
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Syed Hussain",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Syed Hussain",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

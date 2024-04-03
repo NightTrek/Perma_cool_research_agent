@@ -1,0 +1,70 @@
+{
+    "buisnessName": "Revive Organics, LLC",
+    "licenseNumber": "CDPH-10002902",
+    "licenseEmail": "Jacob@revivepurelife.Com",
+    "products": [
+        "Revive Pure Life - THC and CBD chocolate bars",
+        "LA Kush Cake Bubble Grade Hash",
+        "GovernMint Oasis Pressed Sift Hash",
+        "THC Rich - Rosin Infused Vegan Dark Chocolate Bar (66% Cacao)",
+        "CBD Rich - Rosin Infused Vegan Milk Chocolate Bar (38% Cacao)",
+        "GUMMIES RVE BLUEBERRY (I) 100MG"
+    ],
+    "company_website": {
+        "url": "https://www.revivepurelife.com/",
+        "contactPage_url": "https://revivesuperfoods.com/contact-us/",
+        "summary": "Revive Organics offers a top-shelf product line inspired to become the \"natural food\" or \"craft beer\" segment of the cannabis industry. The products are made with quality organic ingredients.",
+        "infomration_about_the_team": "Revive Organics has a team with almost a hundred years of combined industry experience."
+    },
+    "executives": [
+        {
+            "name": "Jacob Carlson",
+            "executiveEmail": "Jacob@revivepurelife.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Jacob Carlson",
+                    "url": null
+                },
+                {
+                    "type": "businessEmail",
+                    "value": "Jacob@revivepurelife.Com",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Jennifer de Luna",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Jennifer de Luna",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Scott Wellman",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Scott Wellman",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

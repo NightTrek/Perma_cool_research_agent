@@ -1,0 +1,78 @@
+{
+    "buisnessName": "Proof Operations, Inc.",
+    "licenseNumber": "CDPH-10001196",
+    "licenseEmail": "Matthew@proofextracts.Com",
+    "executives": [
+        {
+            "email": "julie@proofcannabis.com",
+            "name": "Julie Mercer-Ingram",
+            "linkedin_url": "https://www.linkedin.com/in/julie-mercer-ingram-8a130a20/",
+            "customer_note": "Julie Mercer-Ingram is the co-founder and CEO of Proof Operations, Inc. She previously served as the creative director while also working as a cannabis attorney.",
+            "position_at_company": "Co-Founder and CEO",
+            "evidence": [
+                {
+                    "type": "Website",
+                    "value": "Co-Founder and CEO",
+                    "url": "https://proofcannabis.com/women-owned-operated"
+                },
+                {
+                    "type": "LinkedIn",
+                    "value": "Co-Founder and CEO",
+                    "url": "https://www.linkedin.com/in/julie-mercer-ingram-8a130a20/"
+                },
+                {
+                    "type": "Press Release",
+                    "value": "Co-Founder and CEO",
+                    "url": "https://www.prnewswire.com/news-releases/proofs-new-female-ceo-on-a-mission-to-share-cannabis-wellness-301533414.html"
+                }
+            ]
+        },
+        {
+            "email": "matthew@proofcannabis.com",
+            "name": "Matthew Ingram",
+            "linkedin_url": "https://www.linkedin.com/in/matthew-ingram-7b4a0a149/",
+            "customer_note": "Matthew Ingram is the co-founder and CEO of Proof Operations, Inc.",
+            "position_at_company": "Co-Founder and CEO",
+            "evidence": [
+                {
+                    "type": "Website",
+                    "value": "Co-Founder and CEO",
+                    "url": "https://proofcannabis.com/media"
+                },
+                {
+                    "type": "LinkedIn",
+                    "value": "Co-Founder and CEO",
+                    "url": "https://www.linkedin.com/in/matthew-ingram-7b4a0a149/"
+                }
+            ]
+        },
+        {
+            "email": "sarah@proofcannabis.com",
+            "name": "Sarah Hines",
+            "linkedin_url": "https://www.linkedin.com/in/sarahhhines",
+            "customer_note": "Sarah Hines is the Chief Operating Officer of Proof Operations, Inc. She is an expert in safe and compliant cannabis manufacturing and distribution.",
+            "position_at_company": "Chief Operating Officer",
+            "evidence": [
+                {
+                    "type": "LinkedIn",
+                    "value": "Chief Operating Officer",
+                    "url": "https://www.linkedin.com/in/sarahhhines"
+                }
+            ]
+        }
+    ],
+    "products": [
+        "Tinctures",
+        "Drops",
+        "High THC Shots",
+        "Capsules",
+        "Craft Cocktail Syrups",
+        "Branded Swag"
+    ],
+    "website_info": {
+        "url": "https://proofcannabis.com/home",
+        "contactPage_url": "https://proofcannabis.com/contact",
+        "summary": "Proof Operations, Inc. is a cannabis company that provides a variety of products including tinctures, drops, high THC shots, capsules, craft cocktail syrups, and branded swag. They focus on compassionate pricing and accessibility in the cannabis space.",
+        "infomration_about_the_team": "Proof Operations, Inc. is co-founded by Julie Mercer-Ingram, who is the current CEO, and Matthew Ingram. Sarah Hines is the Chief Operating Officer. The company is women-owned and operated, with 80% of the team being women."
+    }
+}

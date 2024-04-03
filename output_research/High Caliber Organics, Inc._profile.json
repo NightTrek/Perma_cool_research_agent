@@ -1,0 +1,60 @@
+{
+    "buisnessName": "High Caliber Organics, Inc.",
+    "licenseNumber": "CDPH-10002895",
+    "licenseEmail": "Tfogwell@hcorganics.Com",
+    "products": [
+        "Alien Candy",
+        "Apple Fritter",
+        "Banana Foster",
+        "Black Truffles",
+        "Blueberry Muffins",
+        "Cream Cookies",
+        "Cream Cookies Mintz",
+        "Zoo Dawg",
+        "Sunset Sherbert",
+        "Purple Starburst"
+    ],
+    "company_website": {
+        "url": "https://www.highcaliberca.com/",
+        "contactPage_url": null,
+        "summary": "High Caliber Organics is a vertically integrated indoor cannabis flower company, redefining the industry through excellence and innovation. Their state-of-the-art facilities house a world-class cultivation operation, cutting-edge extraction lab, and retail delivery service.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Norman Fogwell",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Norman Fogwell",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Tyler Fogwell",
+            "executiveEmail": "Tfogwell@hcorganics.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Tyler Fogwell",
+                    "url": null
+                },
+                {
+                    "type": "businessEmail",
+                    "value": "Tfogwell@hcorganics.Com",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": 77639,
+    "company_size": 2
+}

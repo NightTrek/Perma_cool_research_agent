@@ -1,0 +1,52 @@
+{
+    "buisnessName": "Eden Infusions, LLC",
+    "licenseNumber": "CDPH-10002141",
+    "licenseEmail": "Edeninfusions@gmail.Com",
+    "products": [
+        "Cannabis concentrates and extracts",
+        "Cannabis distillate"
+    ],
+    "revenue_size": "between $1M - $5M",
+    "employee_count": "11-20",
+    "executives": [
+        {
+            "name": "Pamela Epstein",
+            "executiveEmail": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "One of the business owners of Eden Infusions, LLC",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Business Owner",
+                    "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/MCSB/Pages/CannabisLicensing.aspx"
+                }
+            ]
+        },
+        {
+            "name": "Shareef El-Sissi",
+            "executiveEmail": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "One of the business owners of Eden Infusions, LLC",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Business Owner",
+                    "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/MCSB/Pages/CannabisLicensing.aspx"
+                }
+            ]
+        },
+        {
+            "name": "Soufyan Abouahmed",
+            "executiveEmail": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "One of the business owners of Eden Infusions, LLC",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Business Owner",
+                    "url": "https://www.cdph.ca.gov/Programs/CEH/DFDCS/MCSB/Pages/CannabisLicensing.aspx"
+                }
+            ]
+        }
+    ]
+}

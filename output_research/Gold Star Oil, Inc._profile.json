@@ -1,0 +1,66 @@
+{
+    "buisnessName": "Gold Star Oil, Inc.",
+    "licenseNumber": "CDPH-10003022",
+    "licenseEmail": "Rlynchster@gmail.Com",
+    "executives": [
+        {
+            "email": "Data Not Available",
+            "name": "Jorge Venegas",
+            "linkedin_url": "Data Not Available",
+            "customer_note": "Jorge Venegas is a co-founder of Gold Star Oil, Inc.",
+            "position_at_company": "Co-founder",
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Jorge Venegas",
+                    "url": "https://cannabis.ca.gov/cannabis-licensees"
+                }
+            ]
+        },
+        {
+            "email": "Rlynchster@gmail.Com",
+            "name": "Robert Lynch",
+            "linkedin_url": "Data Not Available",
+            "customer_note": "Robert Lynch is a co-founder of Gold Star Oil, Inc.",
+            "position_at_company": "Co-founder",
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Robert Lynch",
+                    "url": "https://cannabis.ca.gov/cannabis-licensees"
+                },
+                {
+                    "type": "businessEmail",
+                    "value": "Rlynchster@gmail.Com",
+                    "url": "https://cannabis.ca.gov/cannabis-licensees"
+                }
+            ]
+        },
+        {
+            "email": "Data Not Available",
+            "name": "William McGovern",
+            "linkedin_url": "Data Not Available",
+            "customer_note": "William McGovern is a co-founder of Gold Star Oil, Inc.",
+            "position_at_company": "Co-founder",
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "William McGovern",
+                    "url": "https://cannabis.ca.gov/cannabis-licensees"
+                }
+            ]
+        }
+    ],
+    "products": [
+        "Pre-rolls",
+        "Kief",
+        "Oil",
+        "Terpenes"
+    ],
+    "website_info": {
+        "url": "https://goldstaroil.com/",
+        "contactPage_url": "https://goldstaroil.com/",
+        "summary": "Gold Star Oil Corporation is a cannabis manufacturing company located in Oakland, California. They are approved to manufacture pre-rolls, kief, oil and terpenes.",
+        "infomration_about_the_team": "The company is founded by William McGovern Sr., Jorge Venegas, and Robert Lynch."
+    }
+}

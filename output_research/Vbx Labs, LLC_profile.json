@@ -1,0 +1,91 @@
+{
+    "buisnessName": "VBX Labs, LLC",
+    "licenseNumber": "CDPH-10002777",
+    "licenseEmail": "365hydrodesign@gmail.Com",
+    "products": [
+        "VBX Two-In-One Soluble Nutrient and Probiotic",
+        "Custom white label cannabis products",
+        "Co-packing and branding services",
+        "Distribution services"
+    ],
+    "company_website": {
+        "url": "https://vbxlabs.com/",
+        "contactPage_url": null,
+        "summary": "VBX Labs LLC offers a high-end custom white label service to clients and brands looking to create unique cannabis product lines. The company also provides co-packing, branding, and distribution services.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Kevin Doud",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Kevin Doud",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Joshua Medina",
+            "executiveEmail": null,
+            "linkedin_url": "https://www.linkedin.com/in/joshua-medina-451769221",
+            "position_at_company": "Chief Operating Officer",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "linkedin_profile",
+                    "value": "Joshua Medina",
+                    "url": "https://www.linkedin.com/in/joshua-medina-451769221"
+                }
+            ]
+        },
+        {
+            "name": "Bob Erthal",
+            "executiveEmail": null,
+            "linkedin_url": "https://www.linkedin.com/in/bob-erthal-0a317760",
+            "position_at_company": "CFO",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "linkedin_profile",
+                    "value": "Bob Erthal",
+                    "url": "https://www.linkedin.com/in/bob-erthal-0a317760"
+                }
+            ]
+        },
+        {
+            "name": "Claudia Aparicio",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Principal",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Claudia Aparicio",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Karen Tovar",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Key Employee",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "employee_directory",
+                    "value": "Karen Tovar",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": "<$5 Million",
+    "company_size": "2 employees"
+}

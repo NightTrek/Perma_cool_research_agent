@@ -1,0 +1,109 @@
+{
+    "buisnessName": "Korben Labs, LLC",
+    "licenseNumber": "CDPH-10002731",
+    "licenseEmail": "Rebecca.Halpin@himalayavapor.Com",
+    "products": [
+        "Vape cartridges",
+        "Cannabis extracts",
+        "Other cannabis-related products"
+    ],
+    "company_website": {
+        "url": null,
+        "contactPage_url": null,
+        "summary": null,
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Benjamin Burack",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Benjamin Burack",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Brian Heimberg",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Brian Heimberg",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Jordan Tritt",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Jordan Tritt",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Miguel Vasquez Reyes",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Miguel Vasquez Reyes",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Noah Farb",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Noah Farb",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Rebecca Halpin",
+            "executiveEmail": "Rebecca.Halpin@himalayavapor.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Rebecca Halpin",
+                    "url": null
+                },
+                {
+                    "type": "businessEmail",
+                    "value": "Rebecca.Halpin@himalayavapor.Com",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

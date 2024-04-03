@@ -1,0 +1,100 @@
+{
+    "buisnessName": "Lob Manufacturing Inc.",
+    "licenseNumber": "CDPH-10002733",
+    "licenseEmail": "Russell@thelegionofbloom.Com",
+    "products": [],
+    "company_website": {
+        "url": null,
+        "contactPage_url": null,
+        "summary": null,
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Brandt Collings",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Brandt Collings",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "James Doherty",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "James Doherty",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Marcos Morales",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Marcos Morales",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Matthew Woolley",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Matthew Woolley",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Tedd Weisman",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Tedd Weisman",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Troy Meadows",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Troy Meadows",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

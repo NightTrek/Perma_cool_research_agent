@@ -1,0 +1,33 @@
+{
+    "buisnessName": "KC DBW M1, LLC",
+    "licenseNumber": "CDPH-10003120",
+    "licenseEmail": "Frank@cscorpusa.Com",
+    "executives": [
+        {
+            "email": "Frank@cscorpusa.Com",
+            "name": "Frank Gallagher",
+            "linkedin_url": "Data Not Available",
+            "customer_note": "Frank Gallagher is listed as the business owner for KC DBW M1, LLC.",
+            "position_at_company": "Business Owner",
+            "evidence": [
+                {
+                    "type": "license_information",
+                    "value": "Frank Gallagher is listed as the business owner for KC DBW M1, LLC on their cannabis license.",
+                    "url": "Data Not Available"
+                }
+            ]
+        }
+    ],
+    "products": [
+        "Cannabis Concentrates (Shatter, Cake Badder, Sugar Wax, Terp Sauce)",
+        "Cannabis Vape Products",
+        "Edibles",
+        "Topicals"
+    ],
+    "website_info": {
+        "url": "Data Not Available",
+        "contactPage_url": "Data Not Available",
+        "summary": "Data Not Available",
+        "infomration_about_the_team": "The key executive and decision maker at KC DBW M1, LLC is Frank Gallagher, who is listed as the business owner."
+    }
+}

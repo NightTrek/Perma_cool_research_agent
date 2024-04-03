@@ -1,0 +1,36 @@
+{
+    "buisnessName": "The Hive Laboratory, LLC.",
+    "licenseNumber": "CDPH-10002269",
+    "executives": [
+        {
+            "email": "None Found",
+            "name": "Damien Perillo",
+            "customer_note": "Business Owner of The Hive Laboratory, LLC.",
+            "position_at_company": "Business Owner",
+            "evidence": []
+        },
+        {
+            "email": "None Found",
+            "name": "Ron Freibrun",
+            "customer_note": "Business Owner of The Hive Laboratory, LLC.",
+            "position_at_company": "Business Owner",
+            "evidence": []
+        },
+        {
+            "email": "sean.yantzer@gmail.com",
+            "name": "Sean Yantzer",
+            "customer_note": "Founder of The Hive Laboratory, LLC.",
+            "position_at_company": "Founder",
+            "evidence": [
+                {
+                    "type": "LinkedIn",
+                    "value": "Sean Yantzer's LinkedIn profile",
+                    "url": "https://www.linkedin.com/in/sean-yantzer-886b07143"
+                }
+            ]
+        }
+    ],
+    "products": [
+        "Cannabis products (specific products not listed)"
+    ]
+}

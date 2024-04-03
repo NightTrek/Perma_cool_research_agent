@@ -1,0 +1,30 @@
+{
+    "buisnessName": "Annie Gold Management, LLC",
+    "licenseNumber": "CDPH-10002328",
+    "licenseEmail": "AnniegoldmanagementLLC@gmail.Com",
+    "products": [
+        "Cannabis extracts and concentrates"
+    ],
+    "company_website": {
+        "url": "https://www.cannavis.com/",
+        "contactPage_url": "https://www.cannavis.com/contact/",
+        "summary": "Cannavis is a high profile marijuana brand that offers extensive customer resources, product education seminars, and innovative cannabis products like THC syrup. The company is operated by Annie Gold Management, LLC, which holds a California cannabis manufacturing license (CDPH-10002328).",
+        "infomration_about_the_team": "Cannavis was founded in 2017 and is a top cannabis manufacturer with brands in multiple states. The company is owned and operated by Jeremy Gould."
+    },
+    "executives": [
+        {
+            "name": "Jeremy Gould",
+            "executiveEmail": "AnniegoldmanagementLLC@gmail.Com",
+            "linkedin_url": null,
+            "position_at_company": "Owner",
+            "customer_note": "Jeremy Gould is the owner of Annie Gold Management, LLC, which operates the Cannavis brand.",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Annie Gold Management, LLC holds a California cannabis manufacturing license (CDPH-10002328) and operates under the Cannavis brand.",
+                    "url": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "buisnessName": "Nc3 Systems, Inc.",
+    "licenseNumber": "CDPH-10002244",
+    "executives": [
+        {
+            "email": "None Found",
+            "name": "Greg Gamet",
+            "customer_note": "Business Owner of Nc3 Systems, Inc. (Caliva)",
+            "position_at_company": "Business Owner",
+            "evidence": []
+        },
+        {
+            "email": "None Found",
+            "name": "Judith Schvimmer",
+            "customer_note": "Business Owner of Nc3 Systems, Inc. (Caliva)",
+            "position_at_company": "Business Owner",
+            "evidence": []
+        },
+        {
+            "email": "None Found",
+            "name": "Laurie Holcomb Thompson",
+            "customer_note": "Business Owner of Nc3 Systems, Inc. (Caliva)",
+            "position_at_company": "Business Owner",
+            "evidence": []
+        },
+        {
+            "email": "None Found",
+            "name": "Marshall Minor",
+            "customer_note": "Business Owner of Nc3 Systems, Inc. (Caliva)",
+            "position_at_company": "Business Owner",
+            "evidence": []
+        }
+    ],
+    "products": []
+}

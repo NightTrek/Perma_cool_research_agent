@@ -1,0 +1,48 @@
+{
+    "buisnessName": "Treetop Flyers Collective, Inc.",
+    "licenseNumber": "CDPH-10003011",
+    "licenseEmail": "Data Not Available",
+    "products": [
+        "Various strains of flower",
+        "Concentrates",
+        "Edibles"
+    ],
+    "company_website": {
+        "url": "https://cannabayca.com/",
+        "contactPage_url": "Data Not Available",
+        "summary": "Treetop Flyers Collective, Inc. operates under the DBA name Canna Bay Farms and is a licensed cannabis cultivation and manufacturing company located in Moss Landing, California. They produce a variety of cannabis products including flower, concentrates, and edibles.",
+        "infomration_about_the_team": "The company is owned by Norman Morales and Ronald Rubino, but no other executive or team information was found."
+    },
+    "executives": [
+        {
+            "name": "Norman Morales",
+            "executiveEmail": "Data Not Available",
+            "linkedin_url": "Data Not Available",
+            "position_at_company": "Co-Owner",
+            "customer_note": "Norman Morales is listed as a co-owner of Treetop Flyers Collective, Inc.",
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Norman Morales",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Ronald Rubino",
+            "executiveEmail": "Data Not Available",
+            "linkedin_url": "Data Not Available",
+            "position_at_company": "Co-Owner",
+            "customer_note": "Ronald Rubino is listed as a co-owner of Treetop Flyers Collective, Inc.",
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Ronald Rubino",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

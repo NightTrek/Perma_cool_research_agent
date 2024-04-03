@@ -1,0 +1,36 @@
+{
+    "buisnessName": "Pacwell Solutions Inc.",
+    "licenseNumber": "CDPH-10002550",
+    "licenseEmail": "Gkouvaras@gmail.Com",
+    "products": [
+        "Retail Packaging Solutions",
+        "Packaging Machines",
+        "Filling Machines",
+        "Sealing Machines",
+        "Liquid Packaging Machines"
+    ],
+    "company_website": {
+        "url": "https://pacwellusa.com/",
+        "contactPage_url": null,
+        "summary": "PacWell is a fully qualified and insured retail packaging and printing company with over 60 years of experience in the manufacturing space. They specialize in unique product packaging solutions.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Greg Kouvaras",
+            "executiveEmail": "Gkouvaras@gmail.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Greg Kouvaras is listed as the business owner of Pacwell Solutions Inc.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Greg Kouvaras is listed as the business owner of Pacwell Solutions Inc.",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": "<$5 Million",
+    "company_size": null
+}

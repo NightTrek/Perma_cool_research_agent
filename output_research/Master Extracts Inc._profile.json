@@ -1,0 +1,35 @@
+{
+    "buisnessName": "Master Extracts Inc.",
+    "licenseNumber": "CDPH-10002326",
+    "licenseEmail": "Jason@master-Extracts.Com",
+    "products": [
+        "Cannabis extracts and concentrates"
+    ],
+    "company_website": {
+        "url": null,
+        "contactPage_url": null,
+        "summary": "Master Extracts Inc. is a licensed cannabis manufacturer located in California City, CA. The company was founded by Jason Meister, who serves as the President.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Jason Meister",
+            "executiveEmail": "Jason@master-Extracts.Com",
+            "linkedin_url": "https://www.linkedin.com/in/jason-meister-45a86a227",
+            "position_at_company": "President",
+            "customer_note": "Jason Meister is the founder and President of Master Extracts Inc.",
+            "evidence": [
+                {
+                    "type": "LinkedIn Profile",
+                    "value": "Jason Meister is listed as the President of Master Extracts Inc. on his LinkedIn profile.",
+                    "url": "https://www.linkedin.com/in/jason-meister-45a86a227"
+                },
+                {
+                    "type": "Company Registration",
+                    "value": "Master Extracts Inc. is registered in California with Jason Meister listed as the business owner.",
+                    "url": "https://opencorporates.com/companies/us_ca/4210150"
+                }
+            ]
+        }
+    ]
+}

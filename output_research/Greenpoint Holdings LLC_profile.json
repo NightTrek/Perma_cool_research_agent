@@ -1,0 +1,35 @@
+{
+    "buisnessName": "Greenpoint Holdings LLC",
+    "licenseNumber": "CDPH-10002514",
+    "licenseEmail": "Hab@greenpointholdingsLLC.Com",
+    "products": [],
+    "company_website": {
+        "url": "https://www.greenpointholdingsllc.com/",
+        "contactPage_url": null,
+        "summary": "Greenpoint has a deep-seeded history in the legal cannabis movement. As a pioneer in the industry, we have the knowledge, experience and resources to help you navigate the complexities of the cannabis space.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Ehab Haddad",
+            "executiveEmail": "Hab@greenpointholdingsLLC.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Ehab Haddad is listed as the business owner of Greenpoint Holdings LLC.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Ehab Haddad is listed as the business owner of Greenpoint Holdings LLC.",
+                    "url": null
+                },
+                {
+                    "type": "Website",
+                    "value": "Greenpoint Holdings LLC's website lists Ehab Haddad as the agent for the company.",
+                    "url": "https://www.greenpointholdingsllc.com/"
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

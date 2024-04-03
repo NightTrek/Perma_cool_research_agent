@@ -1,0 +1,25 @@
+{
+    "buisnessName": "Ntz, Inc. (CA Collective)",
+    "licenseNumber": "CDPH-10002578",
+    "licenseEmail": "Casystematize@gmail.Com",
+    "products": [
+        "Flower",
+        "Pre-Rolls",
+        "Edibles",
+        "Concentrates",
+        "Vape carts and pods",
+        "Drinks",
+        "Gummies"
+    ],
+    "company_website": {
+        "url": "https://www.ca-collective.com/",
+        "contactPage_url": null,
+        "summary": "CA Collective is a vertically integrated cannabis company operating in the San Jose, California area. They offer a variety of cannabis products including flower, pre-rolls, edibles, and concentrates.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        // No specific executive or decision maker information could be found
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

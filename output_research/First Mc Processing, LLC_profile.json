@@ -1,0 +1,29 @@
+{
+    "buisnessName": "First MC Processing, LLC",
+    "licenseNumber": "CDPH-10002162",
+    "executives": [
+        {
+            "email": "Kew@paradigmcannabis.Com",
+            "name": "Karyn Wagner",
+            "customer_note": "The business owner of First MC Processing, LLC",
+            "position_at_company": "Business Owner",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Business Owner",
+                    "url": "https://humboldtgov.org/AgendaCenter/ViewFile/Agenda/_05032018-1075"
+                },
+                {
+                    "type": "News Article",
+                    "value": "According to Karyn Wagner who represents First MC Processing, the business cannot open a dispensary and manufacturing facility in Garberville",
+                    "url": "https://kymkemp.com/2018/04/23/humboldt-cannabuisnesses-say-they-are-struggling-to-comply-with-regulations/"
+                }
+            ]
+        }
+    ],
+    "products": [
+        "Cannabis flower",
+        "Cannabis concentrates and extracts",
+        "Cannabis pre-rolls"
+    ]
+}

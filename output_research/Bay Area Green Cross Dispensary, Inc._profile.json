@@ -1,0 +1,88 @@
+{
+    "buisnessName": "Bay Area Green Cross Dispensary, Inc.",
+    "licenseNumber": "CDPH-10002082",
+    "licenseEmail": "Jessestoutlaw@gmail.Com",
+    "products": [
+        "Cannabis flowers",
+        "Edibles",
+        "Vape products"
+    ],
+    "company_website": {
+        "url": "https://www.thegreencross.org/",
+        "contactPage_url": null,
+        "summary": "The Green Cross is a premier cannabis dispensary with a storefront located in San Francisco, CA. They offer a wide range of cannabis products including flowers, edibles, and vapes.",
+        "infomration_about_the_team": "The key executives and decision makers at Bay Area Green Cross Dispensary, Inc. appear to be David Goldman, Erick Alfaro, Henry Gold, John Paul Soto, and Kevin Reed, who are listed as the business owners. However, I was unable to find detailed contact information or LinkedIn profiles for these individuals."
+    },
+    "executives": [
+        {
+            "name": "David Goldman",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "David Goldman is listed as a business owner of Bay Area Green Cross Dispensary, Inc.",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10002082"
+                }
+            ]
+        },
+        {
+            "name": "Erick Alfaro",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Erick Alfaro is listed as a business owner of Bay Area Green Cross Dispensary, Inc.",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10002082"
+                }
+            ]
+        },
+        {
+            "name": "Henry Gold",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Henry Gold is listed as a business owner of Bay Area Green Cross Dispensary, Inc.",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10002082"
+                }
+            ]
+        },
+        {
+            "name": "John Paul Soto",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "John Paul Soto is listed as a business owner of Bay Area Green Cross Dispensary, Inc.",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10002082"
+                }
+            ]
+        },
+        {
+            "name": "Kevin Reed",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Kevin Reed is listed as a business owner of Bay Area Green Cross Dispensary, Inc.",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10002082"
+                }
+            ]
+        }
+    ]
+}

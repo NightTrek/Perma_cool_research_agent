@@ -1,0 +1,67 @@
+{
+    "buisnessName": "Seaport Manufacturing LLC",
+    "licenseNumber": "CDPH-10002874",
+    "licenseEmail": "Johnp@lbsdistribution.Com, Compliance@lbsdistribution.Com",
+    "products": [
+        "Tanks",
+        "Metal Fabrication",
+        "Industrial Products"
+    ],
+    "company_website": {
+        "url": "https://seaportfabrication.com/",
+        "contactPage_url": null,
+        "summary": "Seaport Fabrication began manufacturing tanks for the aquaculture industry and continues to provide customers with high quality FRP products for Aquaculture.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "John Perrino",
+            "executiveEmail": "Johnp@lbsdistribution.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "John Perrino",
+                    "url": null
+                },
+                {
+                    "type": "businessEmail",
+                    "value": "Johnp@lbsdistribution.Com",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Ross Haley",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Ross Haley",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Sean Smutny",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Sean Smutny",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": 120526,
+    "company_size": 7
+}

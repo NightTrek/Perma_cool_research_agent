@@ -1,0 +1,46 @@
+{
+    "buisnessName": "Purple Star Md Collective",
+    "licenseNumber": "CDPH-10002057",
+    "licenseEmail": "Sfpurplestar@gmail.Com",
+    "products": [
+        "Cannabis flowers",
+        "Edibles",
+        "Vape products"
+    ],
+    "company_website": {
+        "url": "https://www.purplestarmd.com/",
+        "contactPage_url": null,
+        "summary": "Purple Star MD is a cannabis dispensary and delivery service based in San Francisco's Mission District. They offer a wide range of cannabis products including flowers, edibles, and vapes.",
+        "infomration_about_the_team": "The key executives and decision makers at Purple Star MD Collective appear to be Brian Wong and Gus Murad, who are listed as the business owners. However, I was unable to find detailed contact information or LinkedIn profiles for these individuals."
+    },
+    "executives": [
+        {
+            "name": "Brian Wong",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Brian Wong is listed as a business owner of Purple Star MD Collective.",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10002057"
+                }
+            ]
+        },
+        {
+            "name": "Gus Murad",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Gus Murad is listed as a business owner of Purple Star MD Collective.",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10002057"
+                }
+            ]
+        }
+    ]
+}

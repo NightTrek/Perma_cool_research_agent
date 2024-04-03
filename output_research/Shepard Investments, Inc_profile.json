@@ -1,0 +1,58 @@
+{
+    "buisnessName": "Shepard Investments, Inc",
+    "licenseNumber": "CDPH-10002795",
+    "licenseEmail": "Yuvi@nectarandember.Com",
+    "products": [],
+    "company_website": {
+        "url": null,
+        "contactPage_url": null,
+        "summary": "Shepard Investments, Inc. is primarily an investment and real estate company, focused on residential and commercial real estate, securities, and other investment activities. The company seems to be involved in the cannabis industry in an ancillary capacity, such as owning real estate leased to cannabis businesses or providing investment services, but does not appear to be a direct manufacturer or retailer of cannabis products.",
+        "infomration_about_the_team": null
+    },
+    "executives": [
+        {
+            "name": "Sanjit Malia",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Sanjit Malia",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "SIMER SINGH",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "SIMER SINGH",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Valeria Castelo",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Valeria Castelo",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": "between $10M - $25M",
+    "company_size": "51-100 employees"
+}

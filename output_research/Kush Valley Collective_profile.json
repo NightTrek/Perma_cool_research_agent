@@ -1,0 +1,39 @@
+{
+    "buisnessName": "Kush Valley Collective",
+    "licenseNumber": "CDPH-10002942",
+    "licenseEmail": "Kushvalleycollective420@gmail.Com",
+    "products": [
+        "Various strains of flower",
+        "Concentrates",
+        "Edibles"
+    ],
+    "company_website": {
+        "url": "https://kcsfv.com/",
+        "contactPage_url": null,
+        "summary": "Kush Valley Collective is a fully compliant cannabis dispensary located in Los Angeles, California. They focus on providing high-quality products and excellent customer service.",
+        "infomration_about_the_team": "The business owner of Kush Valley Collective is Matthew Ochoa. No other executive or team information was found."
+    },
+    "executives": [
+        {
+            "name": "Matthew Ochoa",
+            "executiveEmail": "Kushvalleycollective420@gmail.Com",
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": null,
+            "evidence": [
+                {
+                    "type": "businessOwnerName",
+                    "value": "Matthew Ochoa",
+                    "url": null
+                },
+                {
+                    "type": "businessEmail",
+                    "value": "Kushvalleycollective420@gmail.Com",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

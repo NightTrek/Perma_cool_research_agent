@@ -1,0 +1,32 @@
+{
+    "buisnessName": "Rbg Services, Inc.",
+    "licenseNumber": "CDPH-10001347",
+    "licenseEmail": "405raul@gmail.Com",
+    "executives": [
+        {
+            "email": "405raul@gmail.Com",
+            "name": "Raul Becerril",
+            "linkedin_url": "",
+            "customer_note": "Raul Becerril is the business owner of Rbg Services, Inc. (doing business as Green Desert Growers).",
+            "position_at_company": "Business Owner",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://permitting.mdaqmd.ca.gov/company/view/2497"
+                }
+            ]
+        }
+    ],
+    "products": [
+        "Fruits",
+        "Vegetables",
+        "Plants"
+    ],
+    "website_info": {
+        "url": "https://greendesert.org/",
+        "contactPage_url": "https://greendesert.org/contact/",
+        "summary": "Rbg Services, Inc. does business as Green Desert Growers, a company dedicated to the cultivation and distribution of fruits, vegetables, and plants. They focus on sustainable and eco-friendly agriculture.",
+        "infomration_about_the_team": "Based on the available information, the key executives of Rbg Services, Inc. (Green Desert Growers) appear to be Raul Becerril, who is the business owner. However, I was unable to find detailed information about the full executive team and their contact information."
+    }
+}

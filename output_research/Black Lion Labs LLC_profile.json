@@ -1,0 +1,72 @@
+{
+    "buisnessName": "Black Lion Labs LLC",
+    "licenseNumber": "CDPH-10002287",
+    "licenseEmail": "Greg@goldflora.Com",
+    "products": [
+        "THC Vape",
+        "Edibles",
+        "Wax",
+        "CBD Products (Topicals, Tinctures, Edibles)",
+        "Flowers",
+        "Concentrates",
+        "Cartridges",
+        "Muscle Building Supplements",
+        "Fat Burning Supplements",
+        "Performance Enhancing Supplements"
+    ],
+    "company_website": {
+        "url": "https://blacklionresearch.com/",
+        "contactPage_url": "https://blacklionresearch.com/contact/",
+        "summary": "Black Lion Labs LLC is a cannabis company that specializes in cultivation, manufacturing, and white label services. They offer a wide range of THC and CBD products including flowers, edibles, vapes, and concentrates. The company also produces a line of award-winning sports nutrition supplements under the Black Lion Research brand.",
+        "infomration_about_the_team": "Black Lion Labs LLC is a 24,000+ sq ft, state-of-the-art cannabis facility located in Costa Mesa, California. The company has between 11-50 employees and is led by a team of experienced executives in the cannabis and sports nutrition industries."
+    },
+    "executives": [
+        {
+            "name": "Daniel Thompson",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Co-Owner",
+            "customer_note": "Daniel Thompson is listed as a co-owner of Black Lion Labs LLC.",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Daniel Thompson is listed as a business owner on the Black Lion Labs LLC license.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Greg Gamet",
+            "executiveEmail": "Greg@goldflora.Com",
+            "linkedin_url": null,
+            "position_at_company": "Co-Owner",
+            "customer_note": "Greg Gamet is listed as a co-owner of Black Lion Labs LLC and is the contact email for the business.",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Greg Gamet is listed as a business owner on the Black Lion Labs LLC license.",
+                    "url": null
+                },
+                {
+                    "type": "Email",
+                    "value": "Greg@goldflora.Com is the business email listed for Black Lion Labs LLC.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Laurie Holcomb Thompson",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Co-Owner",
+            "customer_note": "Laurie Holcomb Thompson is listed as a co-owner of Black Lion Labs LLC.",
+            "evidence": [
+                {
+                    "type": "License Information",
+                    "value": "Laurie Holcomb Thompson is listed as a business owner on the Black Lion Labs LLC license.",
+                    "url": null
+                }
+            ]
+        }
+    ]
+}

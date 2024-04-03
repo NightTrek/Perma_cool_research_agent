@@ -1,0 +1,31 @@
+{
+    "buisnessName": "Modular Processing Systems Of Northern California",
+    "licenseNumber": "CDPH-10002387",
+    "licenseEmail": "Hideaway.Dennis@gmail.Com",
+    "products": [
+        "Cannabis Processing",
+        "Modular Construction"
+    ],
+    "company_website": {
+        "url": "https://www.modularprocesssolutions.com",
+        "contactPage_url": "https://www.modularprocesssolutions.com/contact/",
+        "summary": "Modular Processing Systems of Northern California is a licensed cannabis business located in Willits, California. They provide modular construction and cannabis processing services.",
+        "infomration_about_the_team": "The founder and owner of Modular Processing Systems of Northern California is Dennis Hunter. I was unable to find information about any other executives or decision makers at the company."
+    },
+    "executives": [
+        {
+            "name": "Dennis Hunter",
+            "executiveEmail": "Hideaway.Dennis@gmail.Com",
+            "linkedin_url": null,
+            "position_at_company": "Founder and Owner",
+            "customer_note": "Dennis Hunter is listed as the business owner on the customer profile.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Dennis Hunter is listed as the business owner of Modular Processing Systems of Northern California.",
+                    "url": null
+                }
+            ]
+        }
+    ]
+}

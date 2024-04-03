@@ -1,0 +1,47 @@
+{
+    "buisnessName": "Elefante Inc",
+    "licenseNumber": "CDPH-10002404",
+    "licenseEmail": "Managers@elefanteinc.Com",
+    "products": [
+        "Vegan THC Gummies (Watermelon, Pineapple Strawberry, Orange, etc.)",
+        "Other cannabis-infused edibles"
+    ],
+    "company_website": {
+        "url": "https://www.elefanteinc.com/",
+        "contactPage_url": null,
+        "summary": "Elefante Inc is a cannabis company based in San Francisco, California that specializes in producing vegan, gluten-free, and organic cannabis-infused edibles such as gummies. They strive to create delicious and sustainable products using high-quality ingredients.",
+        "infomration_about_the_team": "Elefante Inc is a woman-owned business, but I was unable to find specific details about the company's executives or decision makers."
+    },
+    "executives": [
+        {
+            "name": "Clinton Swiedom",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Clinton Swiedom is listed as a business owner of Elefante Inc.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Clinton Swiedom is listed as a business owner of Elefante Inc.",
+                    "url": null
+                }
+            ]
+        },
+        {
+            "name": "Julie Tran",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "Julie Tran is listed as a business owner of Elefante Inc.",
+            "evidence": [
+                {
+                    "type": "Customer Profile",
+                    "value": "Julie Tran is listed as a business owner of Elefante Inc.",
+                    "url": null
+                }
+            ]
+        }
+    ],
+    "company_revenue": null,
+    "company_size": null
+}

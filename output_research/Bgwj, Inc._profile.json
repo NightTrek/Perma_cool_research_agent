@@ -1,0 +1,50 @@
+{
+    "buisnessName": "BGWJ, Inc.",
+    "licenseNumber": "CDPH-10002133",
+    "licenseEmail": "B@bradgleason.Com",
+    "products": [
+        "Cannabis concentrates and extracts",
+        "Cannabis distribution services"
+    ],
+    "company_website": {
+        "url": "https://www.yesoil.biz/",
+        "contactPage_url": null,
+        "summary": "BGWJ, Inc. is a licensed California manufacturer of cannabis concentrates and extracts. They operate a 2,202 square foot cannabis distribution facility in Arcata, CA.",
+        "infomration_about_the_team": "The key executives and decision makers at BGWJ, Inc. appear to be Bradley Gleason and William Johnson, who are listed as the business owners. Brad Gleason is the CEO of the company, and based on the information found, he seems to be the primary contact for the business."
+    },
+    "executives": [
+        {
+            "name": "Bradley Gleason",
+            "executiveEmail": "B@bradgleason.Com",
+            "linkedin_url": "https://www.linkedin.com/in/bradgleason",
+            "position_at_company": "CEO",
+            "customer_note": "Bradley Gleason is the CEO and co-owner of BGWJ, Inc.",
+            "evidence": [
+                {
+                    "type": "LinkedIn Profile",
+                    "value": "CEO of BGWJ, Inc.",
+                    "url": "https://www.linkedin.com/in/bradgleason"
+                },
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10002133"
+                }
+            ]
+        },
+        {
+            "name": "William Johnson",
+            "executiveEmail": null,
+            "linkedin_url": null,
+            "position_at_company": "Business Owner",
+            "customer_note": "William Johnson is listed as a co-owner of BGWJ, Inc.",
+            "evidence": [
+                {
+                    "type": "Business License",
+                    "value": "Business Owner",
+                    "url": "https://cannabis.ca.gov/licensee-search/?license=CDPH-10002133"
+                }
+            ]
+        }
+    ]
+}
