@@ -1,14 +1,21 @@
 from crewai import Task, Agent, Crew
 from linkedin_search import LinkedinAccountDetailsTool, LinkedinAccountSearch
-# import sys
-# sys.path.append("..")
-# import init
-
-# init.init()
-
+from selenium import webdriver
+from selenium_tools import login_linkedin
+import os
 # agent setup 
-account_search = LinkedinAccountSearch()
-account_details_scraper = LinkedinAccountDetailsTool()
+
+# activate web driver
+driver = webdriver.Chrome()
+
+username =  os.environ["LINKEDIN_USERNAME"]
+password =  os.environ["LINKEDIN_PASSWORD"]
+
+# login to linkdin 
+login_linkedin(username=username, password=password, driver=driver, bypassCookie=False)
+
+account_search = LinkedinAccountSearch(selenium_webdriver=driver)
+account_details_scraper = LinkedinAccountDetailsTool(selenium_webdriver=driver)
 
 
 LinkedinSearch_agent = Agent(
@@ -22,6 +29,7 @@ LinkedinSearch_agent = Agent(
         """,
         tools=[account_search, account_details_scraper],
         verbose=True,
+        allow_delegation=False
     )
 
 # test tasks setup
@@ -29,12 +37,14 @@ find_all_john_smiths = Task(
     description="Search for 'John Smith' on Linkedin and get top 5 profiles",
     expected_output="A json containing top 5 Linkedin profiles for 'John Smith'",
     output_file="./tools/test_output/john_smiths_list.json",
+    agent=LinkedinSearch_agent
 )
 
 search_for_daniel_task = Task(
     description="Search for Daniel Steigman web3 software engineer on Linkedin and get his account details",
     expected_output="A json containing Daniel Steigman's Linkedin profile details",
     output_file="./tools/test_output/daniel_details.json",
+    agent=LinkedinSearch_agent
 )
 
 # run test tasks

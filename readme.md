@@ -46,7 +46,7 @@ We welcome contributions to Perma Cool AI Tools! If you'd like to contribute, pl
 Please ensure that your code follows the established coding style and includes appropriate tests.
 
 ## License
-
+s
 Perma Cool AI Tools is released under the [MIT License](LICENSE).
 
 ## Contact
