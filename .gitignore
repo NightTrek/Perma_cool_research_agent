@@ -1,0 +1,7 @@
+data
+init.py 
+perma_cool_env
+__pycache__
+**/__pycache__ 
+.env
+.DS_Store
